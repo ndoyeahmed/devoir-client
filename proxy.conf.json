@@ -1,0 +1,7 @@
+{
+  "/devoir-1.0-SNAPSHOT/rest/**": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
